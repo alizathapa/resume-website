@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: rgba(0, 255, 170, 0.404);
+}
+header {
+  text-align: center;
+  background-color: #3333334d;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  color: rgba(0, 0, 0, 0.829);
+}
+section {
+  background-color: rgba(255, 255, 255, 0.26);
+  border-radius: 10px;
+}
+h2 {
+  color: rgba(7, 3, 3, 0.822);
+}
+.main {
+  color: rgb(0, 0, 255);
+}
